@@ -9,7 +9,7 @@ An interactive food delivery app prototype built using **HTML, CSS, and JavaScri
 
 ## 📂 GitHub Repository
 
-🔗 GitHub: https://github.com/yourusername/foodiego-interactive-prototype
+🔗 GitHub: https://github.com/mitraaa-cmd/Syntecxhub_Advanced_Interactive_Prototype
 
 ---
 
