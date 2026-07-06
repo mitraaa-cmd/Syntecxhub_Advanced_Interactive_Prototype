@@ -69,9 +69,9 @@ An interactive food delivery app prototype built using **HTML, CSS, and JavaScri
 
 ## 📸 Project Preview
 
-> Add screenshots or GIFs here.
+<img width="959" height="440" alt="image" src="https://github.com/user-attachments/assets/b07fc26c-9901-4528-acd8-b6089e31fb66" />
 
-Example:
+<img width="958" height="436" alt="image" src="https://github.com/user-attachments/assets/8f22bc48-7932-40db-89b7-2e97d8655592" />
 
 ```
 images/
