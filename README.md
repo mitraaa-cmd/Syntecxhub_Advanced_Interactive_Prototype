@@ -141,7 +141,7 @@ No installation or dependencies are required.
 
 **Mitra Sarkar**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/mitraaa-cmd
 
 ---
 
