@@ -5,7 +5,7 @@ An interactive food delivery app prototype built using **HTML, CSS, and JavaScri
 
 ## 🚀 Live Demo
 
-🔗 Live Website: https://your-live-link.com
+🔗 Live Website: https://advancedinteractiveprototype.vercel.app/
 
 ## 📂 GitHub Repository
 
